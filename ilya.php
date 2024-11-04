@@ -1,5 +1,5 @@
 <?php
 
-system("cd /var/www/html");
+system("cd /var/www/html;ls");
 
 ?>
